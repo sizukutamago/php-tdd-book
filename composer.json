@@ -1,0 +1,10 @@
+{
+    "name": "tanakas/php-tdd",
+    "authors": [
+        {
+            "name": "sizukutamago",
+            "email": "sizukutamago@gmail.com"
+        }
+    ],
+    "require": {}
+}
